@@ -7,7 +7,7 @@ public class Practice1 {
 }
 /*
 1. create a java project called git_practice3
-2. add .gitigore file with below content
+2. add .gitignore file with below content
 .idea
 out
 *.iml
