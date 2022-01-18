@@ -26,3 +26,12 @@ out
    1. go to Git menu -- Manage Remote and paste in your remote repo url
 5. now you have connection and you can push
  */
+/*
+## Moving betweeb commits to see the project at certain commit
+1. `HEAD` is the term in git to illustrate where we are at in the commit history
+2. Usually it's pointing to latest commit
+3. We have option to move the `HEAD` yp certain commit using `checkout` to take a look at the project state at certain point in time or at certain commit.
+4. MAKE SURE YOU DO NOT HAVE ANYTHING UNCOMMITTED BEFORE USING `CHECKOUT`
+5. MAKE SURE YOU DO NOT MAKE ANY CHANGES WHILE YOU ARE CHECKING OUT CERTAIN COMMMIT
+6. After you are done taking a look , GO BACK TO MASTER BRANCH LATEST COMMIT using `checkout master` and continue your work,
+ */
